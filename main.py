@@ -10,4 +10,4 @@ print ("Ralfs")
 print ("Ralfs "*5)
 print ("Šogad būs tik daudz sekundes - ") 
 print (365*24*60*60)
-print (0,1+0,2-0,2)
+print (0,1+0,2-0,2) #pirmā pritona pieredze
