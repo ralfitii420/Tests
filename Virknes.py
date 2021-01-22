@@ -7,6 +7,8 @@ print(f"Tev ir {gadi} gadi.")
 dzimsGads=2021-gadi
 print(f"Tavs dzimšanas gads ir {szimsGadi}.")
 """
+
+"""
 #uzdevums
 
 celsijs = int(input("Ieraksti kāda temperatūra tev ir."))
@@ -26,10 +28,10 @@ print('Arī šis ir "risinājums"')
 print("sveika, \npasaule!") #izdrukā divās rindās
 print("Sveika, \tpasaule!") #izdrukā ar tabulācijas atkāpi
 
-#String garums - len ()
+c
 print(len("sveiki"))
 print(len("Ko tu domā?"))
-
+"""
 # [sākums:beigas:solis]
 myString="Sveika, pasaule!"
 print(myString)
@@ -38,3 +40,4 @@ print(myString[8])#izdrukā 9.rakstzīmi
 print(myString[13])#izdrukā 14.rakstzīmi
 print(myString[-3])#izdrukā 14.rakstzīmi
 print (myString[-1])#izdrukā pēdējo rakstzīmi
+

@@ -1,1 +1,1 @@
-import Virknes
+import uzdevumi

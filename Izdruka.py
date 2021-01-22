@@ -19,3 +19,7 @@ print (a+a)
 a=a+a #zīme = nozīmē peisķiršanu
 print (a)
 #datu ievade - INPUT
+
+x = pasaule 
+print(x.split()) #sadal visu pa daļām, izmantojot atstarpi
+print (x.Split("a")) #sadala visu pa daļām izmantojot "a"
